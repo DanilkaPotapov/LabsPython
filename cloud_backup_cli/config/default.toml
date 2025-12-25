@@ -1,0 +1,8 @@
+source_dir = "/Users/danilpotapov/TG_BOT"
+backup_dir = "./backups"
+enabled = true
+
+[oauth]
+client_id = ""
+client_secret = ""
+redirect_uri = "https://oauth.yandex.ru/verification_code"
